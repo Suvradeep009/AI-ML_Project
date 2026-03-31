@@ -93,9 +93,9 @@ Result: NOT SPAM (Score: -12.30)
 
 Submitted By:
 
-Name: Rajdeep Kumar
+Name: Suvradeep Datta
 
-Roll Number: 25BCY10190
+Roll Number: 25BAI10328
 
 Degree: B.Tech
 
